@@ -31,7 +31,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "autolinker": "^3.11.1"
+    "autolinker": "3.14.2"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
